@@ -1,0 +1,13 @@
+{
+    "name": "tubasaif/my-awesome-plugin",
+    "description": "My practice plugin",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tuba"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
