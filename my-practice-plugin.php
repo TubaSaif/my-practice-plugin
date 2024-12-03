@@ -3,7 +3,7 @@
  * Plugin Name: My Awesome Plugin
  * Description: A plugin to demonstrate how to use Composer, npm, Node.js, ES6, Webpack, and Babel with WordPress.
  * Version: 1.0
- * Author: Your Name
+ * Author:  Tuba Saif
  */
 
 if (!defined('ABSPATH')) {
